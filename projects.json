@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Flashback",
+    "description": "An exploration of my Spotify listening history",
+    "link": "https://flashback.cgreggescalante.com",
+    "writeupLink": "flashback"
+  },
+  {
+    "title": "Logo Interpreter",
+    "description": "An implementation of the programming language Logo. Written in Python."
+  },
+  {
+    "title": "Vector Fields",
+    "description": "Generative artwork with vector fields"
+  },
+  {
+    "title": "Sudoku Tools",
+    "description": "Tools to help solve variant Sudoku puzzles"
+  },
+  {
+    "title": "Terrain2D",
+    "description": "Generating simple landscapes"
+  }
+]
